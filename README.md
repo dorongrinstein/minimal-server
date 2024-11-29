@@ -1,8 +1,6 @@
 # minimal-server
 
-This web server takes 2 environment variables TEXT and PORT and serves the value of TEXT on the port specified in value of PORT.
-
-It is a "distroless" container you can use for testing purposes.
+A distroless web server container for testing that serves the <code>TEXT</code> environment variable on the specified <code>PORT</code>.
 
 ### Example Usage
 
